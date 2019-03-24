@@ -1,4 +1,8 @@
 package com.example.orange.controller;
 
-public class Out {
+public class OutHello {
+    public static void main(String[] args){
+        
+    }
+
 }
